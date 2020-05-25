@@ -1,6 +1,6 @@
 # auto-completion
 Program that adds to a autocompletion array if array doesn't contain something typed
-- download the html file
+download the html file
 - run html file( choose a prefered browser if needed)
 - start typeing a word. If word isnt in the autocompletion array then word will get added on space press
 - this program lets you put in words/strings manually in the code or it learns from what you typed.
